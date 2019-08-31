@@ -3884,7 +3884,7 @@ figure {
 .hovereffect:hover .icons-link .right-link,
 .hovereffect:hover .icons-link .left-link {
 	opacity: 1;
-	webkit-transform: translateY(0px);
+	-webkit-transform: translateY(0px);
 	transform: translateY(0px)
 }
 
