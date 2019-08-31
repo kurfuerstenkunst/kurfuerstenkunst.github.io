@@ -1,0 +1,69 @@
+
+#portfolio {
+	background: #ffffff;
+	padding: 10px 0;
+	width: 100%
+}
+
+.header-style-2 {
+	background: #f4f6f9;
+	padding-top: 20px
+}
+
+.hero-content-v2 p {
+	color: #444;
+	font-size: 18px;
+	margin-bottom: 25px
+}
+
+.hero-content-v2 h3 strong {
+	display: block;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 62px;
+}
+
+.page-header-title {
+	padding-top: 60px;
+	padding-bottom: 30px
+}
+.navbar {
+    padding: 0;
+    background: #ffffff;
+}
+.sup-desc-wrap .sup-title h4 {
+	font-size: 30px;
+	color: #fff;
+	line-height: 30px;
+	text-transform: uppercase;
+    font-weight: 300;
+    text-shadow:0px 4px 3px rgba(0,0,0,0.8),
+             0px 8px 13px rgba(0,0,0,0.8),
+             0px 18px 23px rgba(0,0,0,0.8);
+}
+
+.sup-desc-wrap .sup-meta-wrap .sup-description {
+	font-size: 13px;
+	line-height: 18px;
+	color: #fff;
+	text-align: center;
+	-webkit-transform: translateY(40px);
+	transform: translateY(40px);
+	opacity: 0;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	transition: all 0.5s ease
+}
+.nav-link {
+    color: #999;
+    font-size: 14px;
+}
+#carousel-area .carousel-item .carousel-caption h3 {
+	font-size: 50px;
+	margin-bottom: 15px;
+	color: #fff;
+    font-weight: 700;
+    text-shadow:0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+}
