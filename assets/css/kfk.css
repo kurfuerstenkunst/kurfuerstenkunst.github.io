@@ -115,4 +115,7 @@
 	#carousel-area .carousel-item .carousel-caption h3 {
 		font-size: 25px;
 	}
+	#carousel-area .carousel-item img {
+		width: auto
+	}
 }
