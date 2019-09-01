@@ -115,7 +115,11 @@
 	#carousel-area .carousel-item .carousel-caption h3 {
 		font-size: 25px;
 	}
+	.carousel-inner {
+		min-height: 275px
+	}
 	#carousel-area .carousel-item img {
-		width: auto
+		width: auto;
+		min-height: 275px
 	}
 }
