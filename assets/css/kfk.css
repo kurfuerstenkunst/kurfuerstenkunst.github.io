@@ -18,7 +18,7 @@
 
 .hero-content-v2 h3 strong {
 	display: block;
-	font-size: 48px;
+	font-size: 5.9vh;
 	font-weight: 400;
 	line-height: 62px;
 }
@@ -32,7 +32,7 @@
     background: #ffffff;
 }
 .sup-desc-wrap .sup-title h4 {
-	font-size: 30px;
+	font-size: 3.5vh;
 	color: #fff;
 	line-height: 30px;
 	text-transform: uppercase;
@@ -59,11 +59,15 @@
     font-size: 14px;
 }
 #carousel-area .carousel-item .carousel-caption h3 {
-	font-size: 50px;
+	font-size: 5.0vh;
 	margin-bottom: 15px;
 	color: #fff;
     font-weight: 700;
     text-shadow:0px 4px 3px rgba(0,0,0,0.4),
              0px 8px 13px rgba(0,0,0,0.1),
              0px 18px 23px rgba(0,0,0,0.1);
+}
+.navbar-light .navbar-brand,
+.navbar-light .navbar-toggler {
+	color: #000 !important
 }

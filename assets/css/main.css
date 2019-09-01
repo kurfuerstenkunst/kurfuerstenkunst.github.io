@@ -1107,10 +1107,7 @@ footer .menu li a:hover {
 	max-width: 200px
 }
 
-.navbar-light .navbar-brand,
-.navbar-light .navbar-toggler {
-	color: #127ED0 !important
-}
+
 
 .navbar-toggle .icon-bar {
 	background: #127ED0;
