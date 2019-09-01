@@ -5,7 +5,7 @@ category : veranstaltungen
 title: "Kurfürstenkunst 2018"
 tagline: "Hello world post on helium jekyll"
 tags : [intro, beginner, jekyll, tutorial]
-img : helloworld.jpg
+img : kfk-2018.jpg
 img-mobile : 
 img2 : 
 img3 : 

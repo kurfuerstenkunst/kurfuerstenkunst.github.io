@@ -5,7 +5,7 @@ category : veranstaltungen
 title: "Kurfürstenkunst 2014"
 tagline: "Hello world post on helium jekyll"
 tags : [intro, beginner, jekyll, tutorial]
-img : helloworld.jpg
+img : kfk-2014.jpg
 img-mobile : 
 img2 : 
 img3 : 

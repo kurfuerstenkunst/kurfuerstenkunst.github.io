@@ -2610,46 +2610,6 @@ nav#menu span.fa.fa-bars:hover {
 	border-color: #fff
 }
 
-#dark-slider h3 {
-	color: #ccc
-}
-
-#dark-slider .slide-text {
-	color: #ccc;
-	line-height: 1.5
-}
-
-#dark-slider p.caption {
-	color: #fff;
-	padding: 6px
-}
-
-#dark-slider .item {
-	min-height: 555px;
-	height: auto
-}
-
-#dark-slider .slide1 {
-	background-image: url(/assets/images/dark-bg-image.jpg);
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	background-position: contain
-}
-
-#dark-slider .slide2 {
-	background-image: url(/assets/images/dark-bg-image.jpg);
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	background-position: center
-}
-
-#dark-slider .carousel-control {
-	color: #ccc;
-	opacity: 0.8
-}
-
 .text-primary {
 	color: #127ED0 !important
 }
@@ -3710,25 +3670,7 @@ a:hover:not([href]):not([tabindex]) {
 	transition: all .2s linear
 }
 
-.hovereffect .overlay {
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	overflow: hidden;
-	top: 0;
-	left: 0;
-	opacity: 0;
-	background-color: RGBA(235, 88, 111, 0.7);
-	-webkit-transition: all .2s ease-in-out;
-	transition: all .2s ease-in-out
-}
 
-.hovereffect .iocns {
-	position: absolute;
-	top: 40%;
-	left: 0;
-	right: 0
-}
 
 .hovereffect .iocns .left-link {
 	font-size: 14px;
@@ -4330,7 +4272,7 @@ ul.nav-tabs li a {
 		margin-bottom: 40px
 	}
 	.carousel-inner {
-		height: 175px
+		height: 275px
 	}
 	#carousel-area .carousel-item .carousel-caption {
 		top: 2%
