@@ -23,9 +23,6 @@
         </div>
       </div>
 
-
-<!-- Post content+sidebar -->
-  <!-- Blog content + sidebar -->
   <section id="post" class="blog">
     <div class="container">
         <div class="row">
@@ -38,10 +35,15 @@
             </div>
         </div>
       <div class="row">
-        <div class="col-sm-12 col-md-12">
+        <div class="col-sm-12 col-md-9">
            {{ content }}                
-        </div>                    
+        </div> 
+        {% if page.sponsors %}
+        <div class="col-sm-12 col-md-3">
+            {% include side-bar.html %}
+        </div>    
+        {% endif %}               
       </div>
      </div>
-   </section>
+  </section>
 

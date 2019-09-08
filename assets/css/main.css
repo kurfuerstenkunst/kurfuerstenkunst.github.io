@@ -773,13 +773,13 @@ footer .menu li a:hover {
 }
 
 .btn-link:hover {
-	color: #D14E63;
-	text-decoration: none
+	color: #127ED0;
+	text-decoration: underline
 }
 
 .btn-link:focus {
-	color: #D14E63;
-	text-decoration: none
+	color: #127ED0;
+	text-decoration: underline;
 }
 
 .btn-common,
@@ -802,9 +802,7 @@ footer .menu li a:hover {
 	color: #fff
 }
 
-.btn-filled:hover {
-	background: #D14E63
-}
+
 
 .btn-default-filled,
 .btn-default-filled:active,
@@ -814,11 +812,6 @@ footer .menu li a:hover {
 	border: 2px solid #127ED0
 }
 
-.btn-default-filled:hover {
-	color: #fff;
-	background: #D14E63;
-	border: 2px solid #D14E63
-}
 
 .btn-success,
 .btn-success:active,
