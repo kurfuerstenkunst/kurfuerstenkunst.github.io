@@ -6,4 +6,4 @@ Disallow: /_config.yml
 Disallow: /_layouts/
 Disallow: /_plugins/
 
-Sitemap: https://kurfuerstenkunst.github.io/sitemap.txt
+Sitemap: https://kurfürstenkunst.de/sitemap.txt
