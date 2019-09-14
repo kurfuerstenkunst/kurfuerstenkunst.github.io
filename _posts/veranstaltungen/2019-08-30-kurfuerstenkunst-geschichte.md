@@ -4,8 +4,8 @@ permalink: /:categories/:title
 category : veranstaltungen
 title: "Entstehung und Geschichte von KfK"
 tagline: "Auch eine lange Reise beginnt mit einem kleinen Schritt."
-tags : [intro, beginner, jekyll, tutorial]
-img : kfk-history.jpg
+tags : [kurfuerstenkunst, kurfürstenkunst, recklinghausen, kunst, tanz, kultur]
+img : bg-2.jpg
 img-mobile : 
 img2 : 
 img3 : 
@@ -15,8 +15,8 @@ title3 :
 css: 
 js: 
 bgcolor: ff5a71
-keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://heliumjk.github.io
+keywords : kurfuerstenkunst, kurfürstenkunst, recklinghausen, kunst, tanz, kultur
+canonical: https://xn--kurfrstenkunst-jsb.de/
 ---
 {% include JB/setup %}
 

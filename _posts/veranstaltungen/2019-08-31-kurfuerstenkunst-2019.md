@@ -4,8 +4,8 @@ permalink: /:categories/:title
 category : veranstaltungen
 title: "Kurfürstenkunst 2019"
 tagline: "Eine künstlerische Reise durch Raum und Zeit. Temporäre Leerstände werden im Rahmen des recklinghäuser Herbstfestes zur Bühne und Leinwand."
-tags : [intro, beginner, jekyll, tutorial]
-img : kfk-2019.jpg
+tags : [kurfuerstenkunst, kurfürstenkunst, recklinghausen, kunst, tanz, kultur]
+img : bg-1.jpg
 img-mobile : 
 img2 : 
 img3 : 
@@ -15,8 +15,8 @@ title3 :
 css: 
 js: 
 bgcolor: ff5a71
-keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://heliumjk.github.io
+keywords : kurfuerstenkunst, kurfürstenkunst, recklinghausen, kunst, tanz, kultur
+canonical: https://xn--kurfrstenkunst-jsb.de/
 sponsors: []
 ---
 {% include JB/setup %}

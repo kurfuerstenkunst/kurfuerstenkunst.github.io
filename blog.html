@@ -2,12 +2,12 @@
 layout: blog
 title: Blog
 group: navigation
-tags : [blog, posts, post]
+tags : [kurfuerstenkunst, kurfürstenkunst, recklinghausen, kunst, tanz, kultur, blog]
 author : Antonio Trento
 css: 
 js:
-keywords: bootstrap4, UI kit, jekyll
-canonical: https://heliumjk.github.io/blog
+keywords: kurfuerstenkunst, kurfürstenkunst, recklinghausen, kunst, tanz, kultur, blog
+canonical: https://kurfürstenkunst.de/blog
 ---
 {% include JB/setup %}
 
@@ -15,7 +15,7 @@ canonical: https://heliumjk.github.io/blog
 {% for post in site.posts %}
 	  <div class="blog-block post-content-area">
 	   {% if post.img %}	  
-            <img src="{{ BASE_PATH }}/assets/images/blog/{{ post.img }}" alt="{{ post.title }} image">
+            <img src="{{ BASE_PATH }}/assets/images/slider/{{ post.img }}" alt="{{ post.title }} image">
 	   {% endif %}	  
             <div class="blog-post">
               <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>

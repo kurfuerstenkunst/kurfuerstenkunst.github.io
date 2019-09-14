@@ -140,7 +140,7 @@
 		min-height: 275px
 	}
 	#carousel-area .carousel-item img {
-		width: auto;
-		min-height: 275px
+		min-height: 275px;
+		object-fit: cover;
 	}
 }
