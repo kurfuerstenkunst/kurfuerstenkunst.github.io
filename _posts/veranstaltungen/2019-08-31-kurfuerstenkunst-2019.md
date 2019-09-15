@@ -17,7 +17,7 @@ js:
 bgcolor: ff5a71
 keywords : kurfuerstenkunst, kurfürstenkunst, recklinghausen, kunst, tanz, kultur
 canonical: https://xn--kurfrstenkunst-jsb.de/
-sponsors: []
+sponsors: 12
 ---
 {% include JB/setup %}
 

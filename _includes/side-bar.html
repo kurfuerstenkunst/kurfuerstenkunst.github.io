@@ -2,9 +2,10 @@
     <div class="widget-title">
       <h4>Sponsoren</h4>
     </div>    
-      {% for sponsor in page.sponsors %}
+      {% for sponsor in site.data.2019_sponsors %}
       <div class="sponsor">
-          <p>{{ sponsor }}</p>
-      </div>      
+        <img class="sponsor-logos" alt="{{ sponsor.name }}" src="{{ BASE_PATH }}{{ sponsor.src }}"></img>
+      </div>  
+      
   {% endfor %}
   <div>
