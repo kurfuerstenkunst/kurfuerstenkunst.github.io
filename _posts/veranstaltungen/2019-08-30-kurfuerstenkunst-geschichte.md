@@ -9,7 +9,6 @@ img : bg-2.jpg
 img-mobile : 
 img2 : 
 img3 : 
-author : Antonio Trento
 title2 : 
 title3 : 
 css: 
